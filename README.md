@@ -18,7 +18,7 @@ A responsive restaurant website built using HTML and CSS.
 
 ## 🌐 Live Demo
 
-Coming soon...
+https://ankitbadole9373-ai.github.io/restaurant-website/
 
 ## 📸 Screenshots
 
